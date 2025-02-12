@@ -9,6 +9,14 @@
    --blue : #1d1d31f3;
    --white : #f4f4f9f3;
 }
+body{
+  @media screen and (max-width: 1024px) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  }
+}
 /* :root {
   --daerk-blue : #252734;
   --blue : #2A2C39;
