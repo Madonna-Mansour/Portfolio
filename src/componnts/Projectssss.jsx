@@ -52,7 +52,7 @@ const Projectssss = () => {
                    </a>
                 </Col>
                 <Col lg={4} md={6}>
-                   <a href="https://new-home-six.vercel.app/">
+                   <a href="https://rosaa-virid.vercel.app/">
                     <img src={rossa} alt="" />
                    </a>
                 </Col>
