@@ -13,7 +13,7 @@ const Contact = () => {
 
   <Container fluid className='darkk'>
         <Row>
-            <Col lg={12} className='text-contact'>
+            <Col lg={12} md={6} sm={6} className='text-contact'>
                     <p style={{color:"gray", fontSize:"25px" , marginBottom:"50px"}}>|| Get Latest Updates</p>
                     <h1 style={{ fontSize:"55px" , marginBottom:"50px"}}>Subscribe For Newsletter</h1>
                 <div className="">
