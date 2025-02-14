@@ -203,9 +203,14 @@ margin-bottom: 30px;
   width: 470px;
   height: 50px;
   }
-
-
 }
+.text-contact{
+   @media screen and (max-width: 667px) {
+   font-size: 40px;
+  }
+}
+
+
 .text-contact button{
   margin-bottom: 30px;
 
