@@ -324,7 +324,7 @@ margin-bottom: 30px;
    font-size: 20px;
   }
 }
-   .butt-contact h1{
+   .butt-contact {
       font-size: 15px
       @media screen and (max-width: 667px) {
        font-size: 10px;
