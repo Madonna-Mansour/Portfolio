@@ -236,11 +236,7 @@ margin-bottom: 30px;
       justify-content: center;
       align-items: center;
     }
-    .butt-contact h1{
-      font-size: 20px
-      @media screen and (max-width: 667px) {
-       font-size: 15px;
-  }
+ 
     }
     .butt-contact button {
      width: 70px;
@@ -328,6 +324,11 @@ margin-bottom: 30px;
    font-size: 20px;
   }
 }
+   .butt-contact h1{
+      font-size: 20px
+      @media screen and (max-width: 667px) {
+       font-size: 15px;
+  }
 
 
 
