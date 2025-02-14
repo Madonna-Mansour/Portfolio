@@ -13,7 +13,7 @@ const Home = () => {
                  <p style={{ color:"gray" }} >Front End Developer</p>
                  <button  variant="success" to="ContactPage" className='butt'>
                     <div >
-                      <a href={cv} download='cv' className='text-white' style={{textDecoration:"none"}} >Download CV 
+                      <a href={cv} download='cv Madonna' className='text-white' style={{textDecoration:"none"}} >Download CV 
                       < img   style={{height:"30px", marginLeft:"20px"}} src={download} alt="" />
                       </a>    
                      </div> 
