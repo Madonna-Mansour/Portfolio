@@ -8,7 +8,7 @@ const Home = () => {
   return (
         <Container fluid className='hero-section '>
            <Row className='d-flex align-items-center justify-content-center'>
-             <Col lg={6} sm={6}  xs={6}  className='px-5'>
+             <Col lg={6} sm={12}  xs={12}  className='px-5'>
                  <h1  className='py-3' style={{fontSize:"50px" }}>Hello! I’m <br /> Madonna Mansour</h1>
                  <p style={{ color:"gray" }} >Front End Developer</p>
                  <button  variant="success" to="ContactPage" className='butt'>
