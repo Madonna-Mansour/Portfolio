@@ -11,7 +11,7 @@ const Servieses = () => {
             <Row>
                 <Col  lg={12} className='py-5'> 
                     <h3 style={{fontSize:"25px" , color:"gray"}}>||  My Services</h3>
-                    <h1 style={{fontSize:"55px" }}>Service Provide For My Clients.</h1>
+                    <h1 style={{fontSize:"45px" }}>Service Provide For My Clients.</h1>
                 </Col>
             </Row>
             <Row  className='d-card'>
