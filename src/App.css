@@ -206,7 +206,7 @@ margin-bottom: 30px;
 }
 .text-contact h1{
    @media screen and (max-width: 667px) {
-   font-size: 30px;
+   font-size: 20px;
   }
 }
 
