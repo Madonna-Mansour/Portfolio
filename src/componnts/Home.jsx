@@ -2,7 +2,7 @@ import React from 'react'
 import {Col ,Row , Container} from 'react-bootstrap'
 import download from '../imges/download.png'
 import me from '../imges/me.png'
-import cv from '../componnts/cv.pdf'
+import Madonna from '../componnts/cv.pdf'
 
 const Home = () => {
   return (
@@ -13,7 +13,7 @@ const Home = () => {
                  <p style={{ color:"gray" }} >Front End Developer</p>
                  <button  variant="success" to="ContactPage" className='butt'>
                     <div >
-                      <a href={cv} download='cv Madonna' className='text-white' style={{textDecoration:"none"}} >Download CV 
+                      <a href={Madonna} download='Madonna' className='text-white' style={{textDecoration:"none"}} >Get Resume 
                       < img   style={{height:"30px", marginLeft:"20px"}} src={download} alt="" />
                       </a>    
                      </div> 
