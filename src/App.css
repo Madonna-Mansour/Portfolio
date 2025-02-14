@@ -199,7 +199,7 @@ padding: 20px;
 background-color: var(--blue);
 font-size: 20px;
 margin-bottom: 30px;
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 667px) {
   width: 470px;
   height: 50px;
   }
