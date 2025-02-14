@@ -244,8 +244,8 @@ margin-bottom: 30px;
       justify-content: center;
       align-items: center;
     }
-    .butt-contact{
-      font-size: 30px
+    .butt-contact h1{
+      font-size: 10px
     }
     .butt-contact button {
      width: 70px;
