@@ -13,9 +13,9 @@ const Contact = () => {
 
   <Container fluid className='darkk'>
         <Row>
-            <Col lg={12} md={6} sm={6} className='text-contact'>
+            <Col lg={12}  sm={6} className='text-contact'>
                     <p style={{color:"gray", fontSize:"25px" , marginBottom:"50px"}}>|| Get Latest Updates</p>
-                    <h1 style={{ fontSize:"55px" , marginBottom:"50px"}}>Subscribe For Newsletter</h1>
+                    <h1  style={{ fontSize:"55px" , marginBottom:"50px"}}>Subscribe For Newsletter</h1>
                 <div className="">
                     <input type="text" placeholder='Madonna Mansour Helmy' />
                     <button> <a href="https://github.com/Madonna-Mansour"> Subscribe Now</a> </button>                </div>
