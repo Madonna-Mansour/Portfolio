@@ -2,7 +2,7 @@ import React from 'react'
 import {Col ,Row , Container} from 'react-bootstrap'
 import download from '../imges/download.png'
 import me from '../imges/me.png'
-import Madonna from '../componnts/cv.pdf'
+import Madonna from '../componnts/Madonna.pdf'
 
 const Home = () => {
   return (
