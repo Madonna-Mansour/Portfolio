@@ -244,6 +244,9 @@ margin-bottom: 30px;
       justify-content: center;
       align-items: center;
     }
+    .butt-contact{
+      font-size: 30px
+    }
     .butt-contact button {
      width: 70px;
      height: 70px;
